@@ -4,3 +4,5 @@
 
 - para crear el sistema debe hacer
 - //tal cosa/7
+
+- sistenma de registro 2
